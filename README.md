@@ -8,3 +8,5 @@ Squares on a plane are colored variously either black or white. We arbitrarily i
   At a black square, turn 90° counter-clockwise, flip the color of the square, move forward one unit.
   
 Normally Langton's Ant would generate a very distinct pattern; however, I decided to have the ant loop across the screen to avoid having to make a huge canvas which would cause the browser to start chugging.
+
+https://ryanbrooksgames.github.io/LangtonsAnt/
